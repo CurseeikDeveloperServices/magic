@@ -1,0 +1,8 @@
+{
+  "name": "Curseeik AI Services",
+  "description": "A professional AI-powered platform for generating high-quality prompts for images, videos, and scenarios across 30+ professional fields.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
